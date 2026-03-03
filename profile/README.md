@@ -24,11 +24,10 @@ Soluções especializadas para o mercado de imóveis, otimizando a vitrine e o g
 ## 💻 Tech Stack
 Desenvolvemos com foco em escalabilidade e performance:
 
-* **Linguagens:** JavaScript, TypeScript, Java
-* **Backend:** Node.js (Fastify, Express), Spring Boot
+* **Linguagens:** JavaScript, TypeScript
+* **Backend:** Node.js (Fastify, Express)
 * **Frontend:** React, Next.js
 * **Banco de Dados:** PostgreSQL, Prisma ORM
-* **Infra & Monitoramento:** Zabbix, MikroTik, UniFi
 
 ---
 
